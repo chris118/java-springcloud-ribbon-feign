@@ -20,6 +20,7 @@
         <module>eruka</module>
         <module>hhservice</module>
         <module>ribbon</module>
+        <module>feign</module>
 
     </modules>
 
